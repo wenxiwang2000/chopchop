@@ -32,8 +32,8 @@ When paired with LLM summarization, it can compress system/environment parameter
 |---|---:|---|
 | OS | Windows 11 | Build info |
 | CPU | Intel i7 | Load stable |
-| RAM | 32 GB | 78% used |
-| GPU | RTX 4090 | Driver OK |
+| RAM | 32 GB | 90% used |
+| GPU | RTX 5090 | Driver OK |
 
 ---
 
