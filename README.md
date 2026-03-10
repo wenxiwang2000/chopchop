@@ -40,6 +40,6 @@ When paired with LLM summarization, it can compress system/environment parameter
 ## Goal
 Turn **messy, oversized environment files** into **small, LLM-friendly chunks** and a **clear final summary** you can use to monitor, debug, and manage your system.
 
-<img width="650" height="201" alt="image" src="https://github.com/user-attachments/assets/19ad8e91-0e5d-4d0c-aa0d-c96e2d3b230f" />
+<img width="895" height="201" alt="image" src="https://github.com/user-attachments/assets/19ad8e91-0e5d-4d0c-aa0d-c96e2d3b230f" />
 
 <img width="895" height="847" alt="image" src="https://github.com/user-attachments/assets/d43ad311-0d42-4c21-be1b-0b6da93d85bf" />
